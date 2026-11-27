@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <title>404.eg</title>
+    <meta
+      name="description"
+      content="404.eg — everyday streetwear. Tees, hoodies and sneakers made to layer."
+    />
+    <meta property="og:title" content="404.eg" />
+    <meta
+      property="og:description"
+      content="Everyday streetwear — tees, hoodies and sneakers."
+    />
+    <meta property="og:image" content="Banner.png" />
+    <link rel="icon" href="Logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preload" as="image" href="Banner.png" fetchpriority="high" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <a class="skip" href="#products">Skip to products</a>
+    <div class="ann" role="region" aria-label="Offers">
+      <div class="mq">
+        <div class="mg">
+          <span><b>Offer</b>Black Friday — up to 30% off</span><i>✦</i
+          ><span>Bundle a full look &amp; save 10%</span><i>✦</i
+          ><span><b>New</b>Hoodie Black &amp; Tatum 5 Orbit just dropped</span
+          ><i>✦</i><span>Free delivery on orders over $200</span><i>✦</i>
+        </div>
+        <div class="mg" aria-hidden="true">
+          <span><b>Offer</b>Black Friday — up to 30% off</span><i>✦</i
+          ><span>Bundle a full look &amp; save 10%</span><i>✦</i
+          ><span><b>New</b>Hoodie Black &amp; Tatum 5 Orbit just dropped</span
+          ><i>✦</i><span>Free delivery on orders over $200</span><i>✦</i>
+        </div>
+      </div>
+    </div>
+    <header class="site-header">
+      <a href="#" data-home class="brand" aria-label="404 home"
+        ><img src="Logo.png" alt="404"
+      /></a>
+      <nav aria-label="Main navigation">
+        <a href="#" data-home data-nav="home" class="act">Home</a
+        ><button type="button" class="nb">Featured</button
+        ><button type="button" class="nb" data-nav="products" data-collections>
+          Collections</button
+        ><button type="button" class="nb">Accessories</button
+        ><button type="button" class="nb">Sale</button>
+      </nav>
+      <div class="hact">
+        <button id="open-account" aria-label="Open account">
+          <svg
+            width="22"
+            height="24"
+            viewBox="0 0 24 26"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.3"
+          >
+            <circle cx="12" cy="9" r="4.5" />
+            <path d="M3.5 23c0-4.7 3.8-8 8.5-8s8.5 3.3 8.5 8" />
+          </svg></button
+        ><button id="open-bag" aria-label="Open cart">
+          <svg
+            width="22"
+            height="24"
+            viewBox="0 0 24 26"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.3"
+          >
+            <path d="M4 8h16l1 16H3L4 8zM8 8V6a4 4 0 0 1 8 0v2" /></svg
+          ><span data-cart-count>0</span>
+        </button>
+      </div>
+    </header>
+    <main>
+      <section class="home" id="home">
+        <div class="hm-copy">
+          <p class="hm-k">New season</p>
+          <h1 class="hm-title">404.eg</h1>
+          <p class="hm-p">
+            Everyday streetwear — tees, hoodies and sneakers, made to layer.
+          </p>
+          <div class="hm-btns">
+            <button type="button" class="hm hm-cta" data-shopall>
+              Shop now</button
+            ><button type="button" class="hm hm-2" data-gocat="hoodie">
+              Hoodies
+            </button>
+          </div>
+        </div>
+        <div class="hm-img">
+          <img src="Banner.png" alt="404.eg banner" fetchpriority="high" />
+        </div>
+      </section>
+      <section class="cats" aria-label="Shop by category">
+        <button type="button" class="hm ct" data-gocat="jeans">
+          <span class="cm"><img src="Baggy.jpeg" alt="" loading="lazy" /></span
+          ><span class="cl">Baggy</span></button
+        ><button type="button" class="hm ct" data-gocat="hoodie">
+          <span class="cm"
+            ><img src="Hoddeis.jpeg" alt="" loading="lazy" /></span
+          ><span class="cl">Hoodies</span></button
+        ><button type="button" class="hm ct" data-gocat="shoes">
+          <span class="cm"
+            ><img src="Sneakers.jpeg" alt="" loading="lazy" /></span
+          ><span class="cl">Sneakers</span>
+        </button>
+      </section>
+      <section class="prods" id="products">
+        <h2>Collections</h2>
+        <p>
+          Every piece in the collection. Pick a size and add it to your bag.
+        </p>
+        <div class="chips" role="group" aria-label="Filter products">
+          <button class="chip" data-f="all" aria-pressed="true">All</button
+          ><button class="chip" data-f="hoodie" aria-pressed="false">
+            Hoodies</button
+          ><button class="chip" data-f="jeans" aria-pressed="false">
+            Baggy</button
+          ><button class="chip" data-f="cargo" aria-pressed="false">
+            Cargos</button
+          ><button class="chip" data-f="sweatpants" aria-pressed="false">
+            Sweatpants</button
+          ><button class="chip" data-f="headwear" aria-pressed="false">
+            Headwear</button
+          ><button class="chip" data-f="shoes" aria-pressed="false">
+            Sneakers</button
+          ><button class="chip" data-f="saved" aria-pressed="false">
+            <svg
+              width="14"
+              height="14"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path
+                d="M12 20.5s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7.6a4.3 4.3 0 0 1 7.5 2.7c0 5.6-7.5 10.2-7.5 10.2z"
+              /></svg
+            ><span>Saved</span><span class="cnt" id="saved-n">0</span>
+          </button>
+        </div>
+        <div class="tools">
+          <div class="srch">
+            <svg
+              class="si"
+              width="16"
+              height="16"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linecap="round"
+              aria-hidden="true"
+            >
+              <circle cx="11" cy="11" r="6.5" />
+              <path d="M16 16l4.5 4.5" /></svg
+            ><input
+              type="search"
+              id="q"
+              placeholder="Search products"
+              aria-label="Search products"
+              autocomplete="off"
+            /><button
+              type="button"
+              class="sx"
+              id="qx"
+              aria-label="Clear search"
+              hidden
+            >
+              <svg
+                width="12"
+                height="12"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+              >
+                <path d="M5 5l14 14M19 5L5 19" />
+              </svg>
+            </button>
+          </div>
+        </div>
+        <div class="pgrid" id="pgrid"></div>
+        <p class="empty" id="empty" hidden>No products match your search.</p>
+      </section>
+    </main>
+    <section id="pdp" aria-label="Product" hidden></section>
+    <section id="co" aria-label="Checkout" hidden></section>
+    <footer class="ft">
+      <div class="ft-top">
+        <div class="ft-join">
+          <h2>Join Our List</h2>
+          <p class="ft-sub">Early access to drops, restocks and 404 offers.</p>
+          <form class="ft-form" id="ft-form" novalidate>
+            <label class="sr" for="ft-email">Email</label
+            ><input
+              id="ft-email"
+              type="email"
+              placeholder="EMAIL"
+              autocomplete="email"
+            /><button type="submit" id="ft-go">Submit</button>
+          </form>
+          <p class="ft-msg" id="ft-msg" role="status" aria-live="polite"></p>
+          <p class="ft-terms">
+            By signing up you agree to the
+            <button type="button" class="fk u">terms and conditions</button>,
+            <button type="button" class="fk u">privacy policy</button>, and
+            <button type="button" class="fk u">cookie policy</button>.
+          </p>
+        </div>
+        <div class="ft-cols">
+          <div class="fc">
+            <h3>Learn</h3>
+            <ul>
+              <li><button type="button" class="fk">About</button></li>
+              <li><button type="button" class="fk">FAQs</button></li>
+              <li>
+                <button type="button" class="fk">404 Loyalty Program</button>
+              </li>
+            </ul>
+          </div>
+          <div class="fc">
+            <h3>404</h3>
+            <ul>
+              <li><button type="button" class="fk">Discover</button></li>
+              <li><button type="button" class="fk">Locations</button></li>
+              <li><button type="button" class="fk">Contact Us</button></li>
+              <li><button type="button" class="fk">404 Support</button></li>
+            </ul>
+          </div>
+          <div class="fc">
+            <h3>Policies</h3>
+            <ul>
+              <li><button type="button" class="fk">Cookie Policy</button></li>
+              <li>
+                <button type="button" class="fk">Privacy Statement</button>
+              </li>
+              <li>
+                <button type="button" class="fk">Terms &amp; Conditions</button>
+              </li>
+              <li>
+                <button type="button" class="fk">
+                  Shipping &amp; Delivery
+                </button>
+              </li>
+              <li>
+                <button type="button" class="fk">Exchange &amp; Returns</button>
+              </li>
+              <li>
+                <button type="button" class="fk">
+                  Accessibility Statement
+                </button>
+              </li>
+            </ul>
+          </div>
+          <div class="fc">
+            <h3>Follow Us</h3>
+            <ul>
+              <li><button type="button" class="fk">Instagram</button></li>
+              <li><button type="button" class="fk">Facebook</button></li>
+              <li><button type="button" class="fk">TikTok</button></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="ft-bot">
+        <span>© <span id="yr">2026</span> 404.eg — All rights reserved.</span
+        ><span class="ft-mid"
+          >Developed by
+          <a
+            class="ft-dev"
+            href="https://raed-mosaed.vercel.app"
+            target="_blank"
+            rel="noopener"
+            >Raed Mosaed</a
+          ></span
+        ><a href="#" data-home style="justify-self: end">Back to top ↑</a>
+      </div>
+    </footer>
+    <dialog id="bag-dialog" aria-label="Cart">
+      <div class="bh">
+        <h2>Cart</h2>
+        <button id="close-bag" aria-label="Close cart">
+          <svg
+            width="18"
+            height="18"
+            viewBox="0 0 18 18"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.2"
+            stroke-linecap="round"
+            aria-hidden="true"
+          >
+            <path d="M2 2l14 14M16 2L2 16" />
+          </svg>
+        </button>
+      </div>
+      <p class="bnote">Review your items, then continue to checkout.</p>
+      <div id="bag-ship" class="bship" aria-live="polite"></div>
+      <div id="bag-items"></div>
+      <div class="bsum">
+        <p id="bag-total"></p>
+        <p class="bnote bsn">Shipping is calculated at checkout.</p>
+        <div class="bfoot">
+          <button id="go-checkout">Checkout</button
+          ><button id="clear-bag">Clear cart</button>
+        </div>
+      </div>
+    </dialog>
+    <button id="top" aria-label="Back to top">
+      <svg
+        width="18"
+        height="18"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.6"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <path d="M12 19V5M5 12l7-7 7 7" />
+      </svg>
+    </button>
+    <dialog id="acc-dialog" aria-label="Your account">
+      <div class="bh">
+        <h2>Your account</h2>
+        <button id="close-acc" aria-label="Close account">×</button>
+      </div>
+      <div id="acc-body"></div>
+    </dialog>
+    <dialog id="qv-dialog" class="qvd" aria-label="Quick view">
+      <button class="qvx" id="close-qv" aria-label="Close quick view">×</button>
+      <div class="qvg" id="qv-body"></div>
+    </dialog>
+    <div id="bag-status" role="status" aria-live="polite"></div>
+    <script src="js/main.js"></script>
+  </body>
+</html>
