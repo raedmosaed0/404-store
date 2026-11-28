@@ -90,7 +90,7 @@ This project was developed exclusively for portfolio and educational demonstrati
 ## 07. Live Demo
 
 <p align="center">
-  <img src="Preview.png" width="100%" alt="404 Store Website Preview">
+  <img src="assets/Preview.png" width="100%" alt="404 Store Website Preview">
 </p>
 
 <p align="center">
