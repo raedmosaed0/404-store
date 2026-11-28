@@ -78,8 +78,11 @@ This project was developed exclusively for portfolio and educational demonstrati
 - No actual payment processing or commercial order fulfillment is available.
 - The website does not represent an operational e-commerce business.
 
-**Please note:** Any resemblance to an actual commercial store or brand is coincidental.
+> [!WARNING]
+> This is a demonstration project only. Do not use it to make real purchases or submit actual payment information.
 
+> [!NOTE]
+> Any resemblance to an actual commercial store or brand is purely coincidental.
 ---
 
 ## 07. Live Demo
