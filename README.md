@@ -102,7 +102,7 @@ This project was developed exclusively for portfolio and educational demonstrati
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
 
-## Developer
+## </> Developer
 
 **Raed Mosaed**  
 Frontend Developer & Digital Creator
