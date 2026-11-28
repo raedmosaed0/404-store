@@ -1,11 +1,19 @@
 
-![404 Store Demo](https://mark.sylphx.com/api/v1/mark/hero.svg?text=404+Store+Demo\&type=grid\&theme=mono\&animation=fade)
+<p align="center">
+  <img src="assets/Banner.png" width="80%" alt="404 Store Demo Banner">
+</p>
+
+<h1 align="center">404 Store Demo</h1>
 
 <p align="center">
   A contemporary streetwear shopping experience featuring distinctive collections, bold aesthetics, and a unique brand identity.
 </p>
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
+<p align="center">
+  <a href="https://github.com/readme-SVG/animated-line">
+    <img src="https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg" alt="Animated Divider">
+  </a>
+</p>
 
 ## 01. Overview
 
