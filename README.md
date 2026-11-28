@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/Banner.png" width="80%" alt="404 Store Demo Banner">
+  <img src="assets/Banner.png" width="100%" alt="404 Store Demo Banner">
 </p>
 
 <h1 align="center">404 Store Demo</h1>
