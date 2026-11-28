@@ -112,15 +112,7 @@ This project was developed exclusively for portfolio and educational demonstrati
 
 ## </> Developer
 
-**Raed Mosaed**  
-Frontend Developer & Digital Creator
-
-Building modern web experiences through thoughtful design, clean code, and attention to detail.
-
-<p>
-  <a href="https://github.com/amrix-eg">GitHub</a> ·
-  <a href="https://raed-mosaed.vercel.app/">Portfolio</a>
-</p>
+**Developed by [Raed Mosaed](https://github.com/raedmosaed0)**
 
 ---
 
