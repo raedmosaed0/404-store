@@ -88,29 +88,19 @@ This project was developed exclusively for portfolio and educational demonstrati
 ---
 
 
+
 ## 07. Live Demo
 
 <p align="center">
   <img src="assets/Preview.png" width="100%" alt="404 Store Website Preview">
 </p>
 
-<p align="center">
-  <a href="https://404-store-demo.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE-FFFFFF?style=for-the-badge&logo=vercel&logoColor=111111">
-    <img src="https://img.shields.io/badge/DEMO-111111?style=for-the-badge&logoColor=white">
-  </a>
+<a href="https://404-store-demo.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-FFFFFF?style=for-the-badge&labelColor=0A0F0A" alt="Live Demo">
+</a>
 </p>
 
-<p align="center">
-  <a href="https://404-store-demo.vercel.app/">404-store-demo.vercel.app</a>
-</p>
-
----
-
-
----
-
----
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
 
 ## Developer
 
