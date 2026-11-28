@@ -1,116 +1,113 @@
-# 404.eg — Streetwear E-Commerce Demo
+# <h1 align="center">404 Store Demo</h1>
 
 <p align="center">
-  <img src="Banner.png" width="100%" alt="404.eg Banner">
-</p>
-
-<p align="center">
-  <strong>NOT FOUND. NEVER FORGOTTEN.</strong>
-  <br>
-  A modern streetwear e-commerce demo showcasing minimalist design, interactive shopping interfaces, and a refined digital experience.
-</p>
-
-<p align="center">
-  <a href="https://404-store-demo.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Store-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-  </a>
-  <a href="https://github.com/amrix-eg/404.eg">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Hosted_on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Project-Demo-8A8A8A?style=flat-square" alt="Demo Project">
+  A contemporary streetwear shopping experience featuring distinctive collections, bold aesthetics, and a unique brand identity.
 </p>
 
 ---
 
-## 01 — Overview
+## 01. Overview
 
-**404.eg** is a streetwear e-commerce demo designed to showcase a modern and visually engaging online storefront.
+**404.eg** is a fictional streetwear brand concept built around a bold visual identity and a modern digital shopping experience.
 
-The project combines minimalist aesthetics, contemporary streetwear branding, and interactive shopping interfaces to demonstrate a complete frontend e-commerce experience.
+Inspired by contemporary streetwear culture, the project brings together distinctive product collections, minimalist aesthetics, and an intuitive shopping interface to create a cohesive brand experience.
 
-Built entirely with native web technologies, with a focus on responsive design, interface consistency, and user experience.
+From product discovery to the shopping journey, every element is designed to reflect the identity and character of 404.
 
-## 02 — Features
+## 02. Features
 
-- **Modern Storefront** — Minimalist, streetwear-inspired visual identity.
-- **Responsive Layout** — Optimized for desktop and mobile screens.
+- **Modern Storefront** — Streetwear-inspired landing page and shopping interface.
 - **Product Catalog** — Organized product listings and collections.
 - **Product Gallery** — Interactive product image presentation.
-- **Shopping Cart** — Interactive cart interface.
+- **Shopping Cart** — Frontend cart interactions.
 - **Search & Navigation** — Product discovery and intuitive navigation.
 - **Checkout Interface** — Demonstration of the checkout experience.
-- **UI/UX Design** — Carefully structured layouts and interactions.
+- **Responsive Design** — Layouts adapted for desktop and mobile screens.
+- **Interactive UI** — Dynamic elements and interface feedback.
 
-## 03 — Tech Stack
+## 03. Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vercel,git,github" alt="Technology Stack">
 
 | Technology | Purpose |
 |:---|:---|
-| HTML5 | Structure and markup |
+| HTML5 | Structure and semantic markup |
 | CSS3 | Styling and responsive layouts |
 | Vanilla JavaScript | Frontend functionality and interactions |
+| Git & GitHub | Version control and source management |
 | Vercel | Hosting and deployment |
 
-## 04 — Project Structure
+## 04. Project Structure
 
 ```text
 404.eg/
+│
 ├── index.html
+│
 ├── css/
 │   └── style.css
+│
 ├── js/
 │   └── main.js
+│
 └── assets/
     ├── Logo.png
     └── Banner.png
 ```
 
-## 05 — Project Information
+## 05. Visual Assets & Credits
 
-| Property | Details |
-|:---|:---|
-| Project | 404.eg |
-| Category | Streetwear E-Commerce |
-| Type | Demo / Showcase |
-| Development | Frontend |
-| Technologies | HTML, CSS, JavaScript |
-| Hosting | Vercel |
-| Status | Demonstration Project |
+The visual materials used in this project come from multiple sources:
 
-## 06 — Demo Disclaimer
+- **AI-Generated Images** — Visual assets created using AI tools.
+- **Pinterest References** — Selected images sourced from Pinterest for visual inspiration and design purposes.
 
-**404.eg is a demonstration project created for design and development showcase purposes.**
+Third-party assets remain the property of their respective owners.
 
-- Products are displayed for demonstration purposes.
-- Shopping cart and checkout interfaces are part of the demo experience.
-- No real purchases or financial transactions are processed.
-- This project does not represent an operational commercial store.
+## 06. Demo Disclaimer
 
-## 07 — Live Preview
+<sub>IMPORTANT — DEMONSTRATION PROJECT ONLY</sub>
 
-<p align="center">
-  <a href="https://404-store-demo.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE_404.EG-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Demo">
-  </a>
-</p>
+**404.eg is a fictional brand concept and a non-commercial frontend showcase. It is not a real business, operational online store, or officially established clothing brand.**
 
-**Live Website:** https://404-store-demo.vercel.app/
+This project was developed exclusively for portfolio and educational demonstration purposes.
+
+- All products, prices, and product listings are fictional.
+- Shopping cart and checkout features are provided for demonstration only.
+- No real purchases, orders, or financial transactions can be made.
+- No actual payment processing or commercial order fulfillment is available.
+- The website does not represent an operational e-commerce business.
+
+**Please note:** Any resemblance to an actual commercial store or brand is coincidental.
 
 ---
 
-## 08 — Developer
+## 07. Live Demo
+
+<p align="center">
+  <img src="Preview.png" width="100%" alt="404 Store Website Preview">
+</p>
+
+<p align="center">
+  <a href="https://404-store-demo.vercel.app/">
+    <img src="https://img.shields.io/badge/EXPLORE_LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://404-store-demo.vercel.app/">404-store-demo.vercel.app</a>
+</p>
+
+---
+
+## Developer
+
+**Raed Mosaed**  
+Frontend Developer & Digital Creator
+
+Building modern web experiences through thoughtful design, clean code, and attention to detail.
 
 <p>
-  <strong>Raed Mosaed</strong>
-  <br>
-  Frontend Developer & Digital Creator
-  <br><br>
   <a href="https://github.com/amrix-eg">GitHub</a> ·
   <a href="https://raed-mosaed.vercel.app/">Portfolio</a>
 </p>
@@ -122,5 +119,5 @@ Built entirely with native web technologies, with a focus on responsive design, 
   <br><br>
   <sub>Designed & Developed by Raed Mosaed</sub>
   <br>
-  <sub>© 2026 404.eg — All Rights Reserved.</sub>
+  <sub>© 2026 404.eg — Portfolio Demonstration Project.</sub>
 </p>
