@@ -1,10 +1,11 @@
+
 # <h1 align="center">404 Store Demo</h1>
 
 <p align="center">
   A contemporary streetwear shopping experience featuring distinctive collections, bold aesthetics, and a unique brand identity.
 </p>
 
----
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
 
 ## 01. Overview
 
@@ -83,6 +84,7 @@ This project was developed exclusively for portfolio and educational demonstrati
 
 > [!NOTE]
 > Any resemblance to an actual commercial store or brand is purely coincidental.
+
 ---
 
 ## 07. Live Demo
