@@ -87,6 +87,7 @@ This project was developed exclusively for portfolio and educational demonstrati
 
 ---
 
+
 ## 07. Live Demo
 
 <p align="center">
@@ -95,13 +96,19 @@ This project was developed exclusively for portfolio and educational demonstrati
 
 <p align="center">
   <a href="https://404-store-demo.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE_LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Live Demo">
+    <img src="https://img.shields.io/badge/LIVE-FFFFFF?style=for-the-badge&logo=vercel&logoColor=111111">
+    <img src="https://img.shields.io/badge/DEMO-111111?style=for-the-badge&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   <a href="https://404-store-demo.vercel.app/">404-store-demo.vercel.app</a>
 </p>
+
+---
+
+
+---
 
 ---
 
