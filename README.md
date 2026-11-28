@@ -1,5 +1,5 @@
 
-# <h1 align="center">404 Store Demo</h1>
+![404 Store Demo](https://mark.sylphx.com/api/v1/mark/hero.svg?text=404+Store+Demo\&type=grid\&theme=mono\&animation=fade)
 
 <p align="center">
   A contemporary streetwear shopping experience featuring distinctive collections, bold aesthetics, and a unique brand identity.
