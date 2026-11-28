@@ -68,7 +68,7 @@ From product discovery to the shopping journey, every element is designed to ref
 
 The visual materials used in this project come from multiple sources:
 
-- **AI-Generated Images** — Visual assets created using AI tools.
+- **Ai-Generated Images** — Visual assets created using Ai tools.
 - **Pinterest References** — Selected images sourced from Pinterest for visual inspiration and design purposes.
 
 Third-party assets remain the property of their respective owners.
